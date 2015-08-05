@@ -66,6 +66,6 @@ YKNetWorkApi是轻量级的二次封装，如果你的应用中要设置请求�
 
 ### 其他说明    
 YKNetWorkApi并不强大，是作者开发经验刚满一年的一些成果总结，YKNetWorkApi的主要目的是能够精简的进行网络请求，让代码看起来整齐一点；如果有意见和建议，欢迎交流，作者是个热爱学习和分享的人；  
-**微博：@鸣2010.**
+**微博：[鸣2010](http://weibo.com/2342352173/profile?rightmod=1&wvr=6&mod=personinfo)
 
 
