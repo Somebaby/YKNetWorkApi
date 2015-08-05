@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>YKNetWorkHost</key>
+	<dict>
+		<key>YKDemo1Service</key>
+		<dict>
+			<key>host</key>
+			<string>api-community-demo.ykbenefit.com</string>
+			<key>host-demo</key>
+			<string>api-demo.com</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
